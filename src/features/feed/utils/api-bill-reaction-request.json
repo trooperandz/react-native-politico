@@ -1,0 +1,8 @@
+// Possible "Reaction" property values:
+// "UP", "DOWN", "CANCEL_UP", "CANCEL_DOWN", "NONE"
+
+{
+  "Reaction": "UP",
+  "BillID": "hconres10-116",
+  "UserID": "ggEmuNQrODMPGwXqhxbRTYl9tIB3"
+}

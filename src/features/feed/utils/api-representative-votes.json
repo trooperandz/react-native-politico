@@ -1,0 +1,225 @@
+{
+  "results": [
+    {
+      "Member": {
+        "Vote": "Yes",
+        "district": "12",
+        "first_name": "Alma",
+        "fullName": "Alma Adams",
+        "id": "A000370",
+        "originalsize": "https://theunitedstates.io/images/congress/original/A000370.jpg",
+        "last_name": "Adams",
+        "middle_name": null,
+        "party": "D",
+        "short_title": "Rep.",
+        "state": "NC",
+        "suffix": null,
+        "fixedsize": "https://theunitedstates.io/images/congress/450x550/A000370.jpg"
+      },
+      "Reacted": true,
+      "UserResponse": {
+        "Member": "A000370",
+        "bill_id": "hr2-116",
+        "date": "2020/08/07",
+        "fullDate": "2020-08-07 17:46:21.697079",
+        "reaction": "UP",
+        "vote_id": "h138-116.2020"
+      },
+      "_id": "h138-116.2020",
+      "bill": {
+        "congress": 116,
+        "number": 2,
+        "subjects_top_term": "Transportation and public works",
+        "titles": [
+          {
+            "as": "introduced",
+            "is_for_portion": false,
+            "title": "INVEST in America Act",
+            "type": "short"
+          },
+          {
+            "as": "introduced",
+            "is_for_portion": false,
+            "title": "INVEST in America Act",
+            "type": "short"
+          },
+          {
+            "as": "introduced",
+            "is_for_portion": false,
+            "title": "Investing in a New Vision for the Environment and Surface Transportation in America Act",
+            "type": "short"
+          },
+          {
+            "as": "introduced",
+            "is_for_portion": false,
+            "title": "Investing in a New Vision for the Environment and Surface Transportation in America Act",
+            "type": "short"
+          },
+          {
+            "as": "introduced",
+            "is_for_portion": true,
+            "title": "Improving Hazardous Materials Safety Act of 2020",
+            "type": "short"
+          },
+          {
+            "as": "introduced",
+            "is_for_portion": true,
+            "title": "Improving Hazardous Materials Safety Act of 2020",
+            "type": "short"
+          },
+          {
+            "as": "introduced",
+            "is_for_portion": true,
+            "title": "TRAIN Act",
+            "type": "short"
+          },
+          {
+            "as": "introduced",
+            "is_for_portion": true,
+            "title": "TRAIN Act",
+            "type": "short"
+          },
+          {
+            "as": "introduced",
+            "is_for_portion": true,
+            "title": "Transforming Rail by Accelerating Investment Nationwide Act",
+            "type": "short"
+          },
+          {
+            "as": "introduced",
+            "is_for_portion": true,
+            "title": "Transforming Rail by Accelerating Investment Nationwide Act",
+            "type": "short"
+          },
+          {
+            "as": "reported to house",
+            "is_for_portion": false,
+            "title": "INVEST in America Act",
+            "type": "short"
+          },
+          {
+            "as": "reported to house",
+            "is_for_portion": false,
+            "title": "Investing in a New Vision for the Environment and Surface Transportation in America Act",
+            "type": "short"
+          },
+          {
+            "as": "reported to house",
+            "is_for_portion": true,
+            "title": "Improving Hazardous Materials Safety Act of 2020",
+            "type": "short"
+          },
+          {
+            "as": "reported to house",
+            "is_for_portion": true,
+            "title": "Motorcyclist Advisory Council Reauthorization Act",
+            "type": "short"
+          },
+          {
+            "as": "reported to house",
+            "is_for_portion": true,
+            "title": "Promoting Women in Trucking Workforce Act",
+            "type": "short"
+          },
+          {
+            "as": "reported to house",
+            "is_for_portion": true,
+            "title": "TRAIN Act",
+            "type": "short"
+          },
+          {
+            "as": "reported to house",
+            "is_for_portion": true,
+            "title": "Transforming Rail by Accelerating Investment Nationwide Act",
+            "type": "short"
+          },
+          {
+            "as": null,
+            "is_for_portion": false,
+            "title": "INVEST in America Act",
+            "type": "display"
+          },
+          {
+            "as": "introduced",
+            "is_for_portion": false,
+            "title": "To authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+            "type": "official"
+          }
+        ],
+        "type": "hr"
+      },
+      "bill_id": "hr2-116",
+      "category": "passage",
+      "chamber": "h",
+      "congress": 116,
+      "date": "2020-07-01T17:21:00-04:00",
+      "number": 138,
+      "question": "On Passage: H R 2 INVEST in America Act",
+      "requires": "1/2",
+      "result": "Passed",
+      "result_text": "Passed",
+      "session": "2020",
+      "source_url": "http://clerk.house.gov/evs/2020/roll138.xml",
+      "subject": "INVEST in America Act",
+      "type": "On Passage of the Bill",
+      "updated_at": "2020-07-06T17:43:59-04:00",
+      "vote_id": "h138-116.2020"
+    },
+    {
+      "Member": {
+        "Vote": "Yes",
+        "district": "12",
+        "first_name": "Alma",
+        "fullName": "Alma Adams",
+        "id": "A000370",
+        "originalsize": "https://theunitedstates.io/images/congress/original/A000370.jpg",
+        "last_name": "Adams",
+        "middle_name": null,
+        "party": "D",
+        "short_title": "Rep.",
+        "state": "NC",
+        "suffix": null,
+        "fixedsize": "https://theunitedstates.io/images/congress/450x550/A000370.jpg"
+      },
+      "Reacted": false,
+      "UserResponse": {},
+      "_id": "h131-116.2020",
+      "bill": {
+        "congress": 116,
+        "number": 1028,
+        "subjects_top_term": "Congress",
+        "titles": [
+          {
+            "as": "introduced",
+            "is_for_portion": false,
+            "title": "Providing for consideration of the bill (H.R. 2) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+            "type": "official"
+          },
+          {
+            "as": null,
+            "is_for_portion": false,
+            "title": "Providing for consideration of the bill (H.R. 2) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+            "type": "display"
+          }
+        ],
+        "type": "hres"
+      },
+      "bill_id": "hres1028-116",
+      "category": "passage",
+      "chamber": "h",
+      "congress": 116,
+      "date": "2020-06-30T12:55:00-04:00",
+      "number": 131,
+      "question": "On Agreeing to the Resolution: H RES 1028 Providing for consideration of the bill (H.R. 2) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+      "requires": "1/2",
+      "result": "Passed",
+      "result_text": "Passed",
+      "session": "2020",
+      "source_url": "http://clerk.house.gov/evs/2020/roll131.xml",
+      "subject": "Providing for consideration of the bill (H.R. 2) to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+      "type": "On the Resolution",
+      "updated_at": "2020-07-06T17:44:02-04:00",
+      "vote_id": "h131-116.2020"
+    }
+  ]
+}

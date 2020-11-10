@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "NumDown": 0,
+      "NumUp": 0,
+      "Reacted": false,
+      "official_title": "To provide a grant program for elementary schools, secondary schools, and institutions of higher education to help offset costs associated with complying with guidelines, recommendations, and other public health communications issued by the Centers for Disease Control and Prevention, or a State, Indian Tribe, Tribal organization, or locality related to mitigating the hazards presented by COVID-19.",
+      "popular_title": null,
+      "short_title": "Reopen Schools Safely Act",
+      "sponsor": {
+        "CommaName": "Titus, Dina",
+        "bioguide_id": "T000468",
+        "district": "1",
+        "first_name": "Dina",
+        "fixedsize": "https://theunitedstates.io/images/congress/450x550/T000468.jpg",
+        "fullName": "Dina Titus",
+        "gender": "F",
+        "id": "T000468",
+        "last_name": "Titus",
+        "leadership_role": null,
+        "middle_name": null,
+        "name": "Titus, Dina",
+        "originalsize": "https://theunitedstates.io/images/congress/original/T000468.jpg",
+        "party": "D",
+        "short_title": "Rep.",
+        "state": "NV",
+        "suffix": null,
+        "title": "Representative"
+      },
+      "status_at": "2020-07-20",
+      "subjects": [
+        "Cardiovascular and respiratory health",
+        "Child health",
+        "Education",
+        "Education programs funding",
+        "Educational facilities and institutions",
+        "Educational technology and distance education",
+        "Elementary and secondary education",
+        "Emergency medical services and trauma care",
+        "Employee hiring",
+        "Health personnel",
+        "Health promotion and preventive care",
+        "Health technology, devices, supplies",
+        "Higher education",
+        "Indian social and development programs",
+        "Infectious and parasitic diseases",
+        "Internet and video services",
+        "Medical tests and diagnostic methods",
+        "Minority education",
+        "Minority health",
+        "School administration",
+        "Teaching, teachers, curricula",
+        "Worker safety and health"
+      ],
+      "subjects_top_term": "Education",
+      "summary": {
+        "as": "Introduced in House",
+        "date": "2020-07-20T04:00:00Z",
+        "text": "Reopen Schools Safely Act - This bill requires the …hat were purchased with grants may not be resold."
+      },
+      "text_url": "https://congress.gov/bill/116th-congress/house-bill/7692/text",
+      "_id": "hr7692-116"
+    }
+  ]
+}

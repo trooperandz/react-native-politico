@@ -1,0 +1,47 @@
+[
+  {
+    "analysis": {
+      "active": "Y",
+      "dpv_cmra": "N",
+      "dpv_footnotes": "AABB",
+      "dpv_match_code": "Y",
+      "dpv_vacant": "N"
+    },
+    "candidate_index": 0,
+    "components": {
+      "city_name": "Austin",
+      "default_city_name": "Austin",
+      "delivery_point": "29",
+      "delivery_point_check_digit": "0",
+      "plus4_code": "3272",
+      "primary_number": "1506",
+      "secondary_designator": "Apt",
+      "secondary_number": "104",
+      "state_abbreviation": "TX",
+      "street_name": "Forest",
+      "street_suffix": "Trl",
+      "zipcode": "78703"
+    },
+    "delivery_line_1": "1506 Forest Trl Apt 104",
+    "delivery_point_barcode": "787033272290",
+    "input_index": 0,
+    "last_line": "Austin TX 78703-3272",
+    "metadata": {
+      "carrier_route": "C003",
+      "congressional_district": "25",
+      "county_fips": "48453",
+      "county_name": "Travis",
+      "dst": true,
+      "elot_sequence": "0118",
+      "elot_sort": "A",
+      "latitude": 30.28755,
+      "longitude": -97.76575,
+      "precision": "Zip9",
+      "rdi": "Residential",
+      "record_type": "H",
+      "time_zone": "Central",
+      "utc_offset": -6,
+      "zip_type": "Standard"
+    }
+  }
+]

@@ -1,0 +1,651 @@
+{
+  "results": [
+    {
+      "_id": "hres916-116",
+      "official_title": "Recognizing the heroism of our Nation's health care workers and first responders, including doctors, nurses, emergency medical services (EMS) professionals, medical staff, pharmacists, law enforcement personnel, and military personnel, during the COVID-19 pandemic.",
+      "popular_title": null,
+      "short_title": null,
+      "sponsor": {
+        "bioguide_id": "B001305",
+        "district": "13",
+        "name": "Budd, Ted",
+        "party": "R",
+        "state": "NC",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-04-07",
+      "subjects": [
+        "Cardiovascular and respiratory health",
+        "Congressional tributes",
+        "Emergency medical services and trauma care",
+        "First responders and emergency personnel",
+        "Health",
+        "Health personnel",
+        "Infectious and parasitic diseases"
+      ],
+      "subjects_top_term": "Health",
+      "summary": {
+        "as": "Introduced in House",
+        "date": "2020-04-07T04:00:00Z",
+        "text": "This resolution recognizes health care workers and first responders for their bravery and contributions during the COVID-19 (i.e., coronavirus disease 2019) pandemic."
+      }
+    },
+    {
+      "_id": "hres914-116",
+      "official_title": "Expressing support for the designation of the week of April 6 through April 10, 2020, as National Assistant Principals Week.",
+      "popular_title": null,
+      "short_title": null,
+      "sponsor": {
+        "bioguide_id": "L000592",
+        "district": "9",
+        "name": "Levin, Andy",
+        "party": "D",
+        "state": "MI",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-31",
+      "subjects": [
+        "Commemorative events and holidays",
+        "Congressional tributes",
+        "Education",
+        "Elementary and secondary education",
+        "School administration",
+        "Teaching, teachers, curricula"
+      ],
+      "subjects_top_term": "Education",
+      "summary": null
+    },
+    {
+      "_id": "hres913-116",
+      "official_title": "Expressing support for frontline workers of the COVID-19 pandemic.",
+      "popular_title": null,
+      "short_title": null,
+      "sponsor": {
+        "bioguide_id": "C001112",
+        "district": "24",
+        "name": "Carbajal, Salud O.",
+        "party": "D",
+        "state": "CA",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-27",
+      "subjects": [
+        "Congressional tributes",
+        "Emergency medical services and trauma care",
+        "Health",
+        "Health personnel",
+        "Health technology, devices, supplies",
+        "Worker safety and health"
+      ],
+      "subjects_top_term": "Health",
+      "summary": {
+        "as": "Introduced in House",
+        "date": "2020-03-27T04:00:00Z",
+        "text": "This resolution recognizes the contributions of frontline workers and essential critical-infrastructure personnel and reaffirms the responsibility of Congress to meet the needs of such workers with respect to personal protective equipment and necessary tools to safely carry out their jobs."
+      }
+    },
+    {
+      "_id": "sres554-116",
+      "official_title": "A resolution recognizing the contributions of health care professionals during the 2020 Coronavirus pandemic.",
+      "popular_title": null,
+      "short_title": null,
+      "sponsor": {
+        "bioguide_id": "C001096",
+        "district": null,
+        "name": "Cramer, Kevin",
+        "party": "R",
+        "state": "ND",
+        "title": "Sen",
+        "type": "person"
+      },
+      "status_at": "2020-03-25",
+      "subjects": [
+        "Cardiovascular and respiratory health",
+        "Congressional tributes",
+        "Emergency medical services and trauma care",
+        "Health",
+        "Health personnel",
+        "Health promotion and preventive care",
+        "Infectious and parasitic diseases"
+      ],
+      "subjects_top_term": "Health",
+      "summary": {
+        "as": "Introduced in Senate",
+        "date": "2020-03-25T04:00:00Z",
+        "text": "This resolution salutes health care professionals and expresses gratitude to the people of the United States for doing their part to stop the spread of COVID-19 (i.e., coronavirus disease 2019)."
+      }
+    },
+    {
+      "_id": "s3573-116",
+      "official_title": "A bill to require personal protective equipment to be included in the strategic national stockpile, and to require the Federal Government to procure such equipment from United States sources, and for other purposes.",
+      "popular_title": null,
+      "short_title": "American-Made Protection for Healthcare Workers and First Responders Act",
+      "sponsor": {
+        "bioguide_id": "S001217",
+        "district": null,
+        "name": "Scott, Rick",
+        "party": "R",
+        "state": "FL",
+        "title": "Sen",
+        "type": "person"
+      },
+      "status_at": "2020-03-24",
+      "subjects": ["Health"],
+      "subjects_top_term": "Health",
+      "summary": null
+    },
+    {
+      "_id": "hr6316-116",
+      "official_title": "To provide relief for Federal and private student loan borrowers during the COVID-19 pandemic, and for other purposes.",
+      "popular_title": null,
+      "short_title": "Emergency Relief for Student Borrowers Act of 2020",
+      "sponsor": {
+        "bioguide_id": "D000631",
+        "district": "4",
+        "name": "Dean, Madeleine",
+        "party": "D",
+        "state": "PA",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-23",
+      "subjects": [
+        "Cardiovascular and respiratory health",
+        "Consumer credit",
+        "Debt collection",
+        "Education",
+        "Education programs funding",
+        "Emergency medical services and trauma care",
+        "Government lending and loan guarantees",
+        "Higher education",
+        "Income tax exclusion",
+        "Infectious and parasitic diseases",
+        "Interest, dividends, interest rates",
+        "Student aid and college costs",
+        "Wages and earnings"
+      ],
+      "subjects_top_term": "Education",
+      "summary": null
+    },
+    {
+      "_id": "hr6317-116",
+      "official_title": "To provide for special enrollment periods during public health emergencies, coverage of services related to public health emergencies, and for other purposes.",
+      "popular_title": null,
+      "short_title": "Ensuring Coverage in Public Health Emergencies Act of 2020",
+      "sponsor": {
+        "bioguide_id": "D000399",
+        "district": "35",
+        "name": "Doggett, Lloyd",
+        "party": "D",
+        "state": "TX",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-23",
+      "subjects": [
+        "Drug therapy",
+        "Emergency medical services and trauma care",
+        "Employee benefits and pensions",
+        "Health",
+        "Health care costs and insurance",
+        "Health care coverage and access",
+        "Health promotion and preventive care",
+        "Immunology and vaccination",
+        "Medical tests and diagnostic methods",
+        "Prescription drugs"
+      ],
+      "subjects_top_term": "Health",
+      "summary": null
+    },
+    {
+      "_id": "hr6365-116",
+      "official_title": "To provide emergency financial assistance to rural health care facilities and providers impacted by the COVID-19 emergency.",
+      "popular_title": null,
+      "short_title": "Immediate Relief for Rural Facilities and Providers Act of 2020",
+      "sponsor": {
+        "bioguide_id": "R000582",
+        "district": "1",
+        "name": "Roe, David P.",
+        "party": "R",
+        "state": "TN",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-23",
+      "subjects": [
+        "Administrative law and regulatory procedures",
+        "Cardiovascular and respiratory health",
+        "Department of Health and Human Services",
+        "Emergency medical services and trauma care",
+        "Government lending and loan guarantees",
+        "Health",
+        "Health care coverage and access",
+        "Health facilities and institutions",
+        "Health personnel",
+        "Health programs administration and funding",
+        "Home and outpatient care",
+        "Infectious and parasitic diseases",
+        "Medicare",
+        "Rural conditions and development",
+        "Small business",
+        "Surgery and anesthesia",
+        "Wages and earnings"
+      ],
+      "subjects_top_term": "Health",
+      "summary": {
+        "as": "Introduced in House",
+        "date": "2020-03-23T04:00:00Z",
+        "text": "Immediate Relief for Rural Facilities and Providers Act of 2020\n\nThis bill establishes grant programs and other forms of financial assistance for health care providers in response to the national emergency relating to COVID-19 (i.e., coronavirus disease 2019).\n\nSpecifically, the bill establishes (1) a grant program to provide emergency assistance to critical access hospitals, certain rural hospitals, and providers participating in Medicare; (2) a grant program to provide emergency assistance to health care practices and ambulatory surgery centers for staff salaries; and (3) a loan program to provide low-interest loans to health care practices and ambulatory surgery centers.\n\nThe bill also temporarily increases reimbursements to rural hospitals under the Medicare swing-bed program. (The program allows rural hospitals to use beds, as needed, for either acute care or skilled nursing facility care.)"
+      }
+    },
+    {
+      "_id": "hres906-116",
+      "official_title": "Calling on the President to invoke the Defense Production Act to respond to COVID-19.",
+      "popular_title": null,
+      "short_title": null,
+      "sponsor": {
+        "bioguide_id": "L000592",
+        "district": "9",
+        "name": "Levin, Andy",
+        "party": "D",
+        "state": "MI",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-23",
+      "subjects": [
+        "Appropriations",
+        "Cardiovascular and respiratory health",
+        "Congressional oversight",
+        "Emergency medical services and trauma care",
+        "Health",
+        "Health programs administration and funding",
+        "Health technology, devices, supplies",
+        "Infectious and parasitic diseases",
+        "Manufacturing",
+        "Military procurement, research, weapons development",
+        "Presidents and presidential powers, Vice Presidents",
+        "Public contracts and procurement"
+      ],
+      "subjects_top_term": "Health",
+      "summary": {
+        "as": "Introduced in House",
+        "date": "2020-03-23T04:00:00Z",
+        "text": "This resolution calls on the President to (1) use all relevant authorities of the Defense Production Act to direct the domestic production of supplies to address COVID-19 (i.e., the coronavirus disease 2019), and (2) share specified information regarding the use of such authorities with Congress. (The Defense Production Act confers upon the President a broad set of authorities to influence domestic industry in order to provide essential materials and goods needed for the national defense.)\n\nThe resolution also\u00a0states that Congress stands ready to make additional appropriations available for this effort."
+      }
+    },
+    {
+      "_id": "sres550-116",
+      "official_title": "A resolution commending the people in the United States who are carrying out essential tasks during the unprecedented time of crisis created by the Coronavirus Disease 2019 (COVID-19).",
+      "popular_title": null,
+      "short_title": null,
+      "sponsor": {
+        "bioguide_id": "P000612",
+        "district": null,
+        "name": "Perdue, David",
+        "party": "R",
+        "state": "GA",
+        "title": "Sen",
+        "type": "person"
+      },
+      "status_at": "2020-03-23",
+      "subjects": [
+        "Aviation and airports",
+        "Cardiovascular and respiratory health",
+        "Centers for Disease Control and Prevention (CDC)",
+        "Community life and organization",
+        "Congressional tributes",
+        "Department of Health and Human Services",
+        "Department of Homeland Security",
+        "Educational technology and distance education",
+        "Electric power generation and transmission",
+        "Emergency medical services and trauma care",
+        "First responders and emergency personnel",
+        "Food supply, safety, and labeling",
+        "Health",
+        "Health facilities and institutions",
+        "Health personnel",
+        "Health programs administration and funding",
+        "Health technology, devices, supplies",
+        "Infectious and parasitic diseases",
+        "Military personnel and dependents",
+        "Motor carriers",
+        "National Guard and reserves",
+        "Retail and wholesale trades",
+        "Service industries",
+        "State and local government operations",
+        "Teaching, teachers, curricula",
+        "Transportation employees"
+      ],
+      "subjects_top_term": "Health",
+      "summary": {
+        "as": "Introduced in Senate",
+        "date": "2020-03-23T04:00:00Z",
+        "text": "This resolution recognizes the efforts of federal agencies, state and\u00a0local governments, health workers, first responders, and others to address COVID-19 (i.e., the coronavirus disease 2019). It also (1) commends those individuals for carrying out essential tasks to support the COVID-19 response, and (2) salutes the leadership that they have shown in their communities and across the United States."
+      }
+    },
+    {
+      "_id": "s3564-116",
+      "official_title": "A bill to amend title XIX of the Social Security Act to require States to provide medical assistance for COVID-19 treatment services for individuals who are diagnosed with COVID-19, and for other purposes.",
+      "popular_title": null,
+      "short_title": "Ensuring Treatment for COVID Act",
+      "sponsor": {
+        "bioguide_id": "C001070",
+        "district": null,
+        "name": "Casey, Robert P., Jr.",
+        "party": "D",
+        "state": "PA",
+        "title": "Sen",
+        "type": "person"
+      },
+      "status_at": "2020-03-22",
+      "subjects": [
+        "Cardiovascular and respiratory health",
+        "Emergency medical services and trauma care",
+        "Health",
+        "Immunology and vaccination",
+        "Infectious and parasitic diseases",
+        "Intergovernmental relations",
+        "Medicaid",
+        "State and local finance"
+      ],
+      "subjects_top_term": "Health",
+      "summary": {
+        "as": "Introduced in Senate",
+        "date": "2020-03-22T04:00:00Z",
+        "text": "Ensuring Treatment for COVID Act\n\nThis bill requires state Medicaid programs to cover testing and treatment for COVID-19 (i.e., coronavirus disease 2019) for uninsured individuals. (Currently, state Medicaid programs have the option to cover COVID-19 testing for uninsured individuals.) Coverage must be provided with no cost-sharing.\n\nAdditionally, state Medicaid programs may not impose cost-sharing for COVID-19 vaccines."
+      }
+    },
+    {
+      "_id": "s3559-116",
+      "official_title": "A bill to provide emergency financial assistance to rural health care facilities and providers impacted by the COVID-19 emergency.",
+      "popular_title": null,
+      "short_title": "Immediate Relief for Rural Facilities and Providers Act of 2020",
+      "sponsor": {
+        "bioguide_id": "B001267",
+        "district": null,
+        "name": "Bennet, Michael F.",
+        "party": "D",
+        "state": "CO",
+        "title": "Sen",
+        "type": "person"
+      },
+      "status_at": "2020-03-21",
+      "subjects": [
+        "Administrative law and regulatory procedures",
+        "Cardiovascular and respiratory health",
+        "Department of Health and Human Services",
+        "Emergency medical services and trauma care",
+        "Government lending and loan guarantees",
+        "Health",
+        "Health care coverage and access",
+        "Health facilities and institutions",
+        "Health personnel",
+        "Health programs administration and funding",
+        "Home and outpatient care",
+        "Infectious and parasitic diseases",
+        "Medicare",
+        "Rural conditions and development",
+        "Small business",
+        "Surgery and anesthesia",
+        "Wages and earnings"
+      ],
+      "subjects_top_term": "Health",
+      "summary": {
+        "as": "Introduced in Senate",
+        "date": "2020-03-21T04:00:00Z",
+        "text": "Immediate Relief for Rural Facilities and Providers Act of 2020\n\nThis bill establishes grant programs and other forms of financial assistance for health care providers in response to the national emergency relating to COVID-19 (i.e., coronavirus disease 2019).\n\nSpecifically, the bill establishes (1) a grant program to provide emergency assistance to critical access hospitals, certain rural hospitals, and providers participating in Medicare; (2) a grant program to provide emergency assistance to health care practices and ambulatory surgery centers for staff salaries; and (3) a loan program to provide low-interest loans to health care practices and ambulatory surgery centers.\n\nThe bill also temporarily increases reimbursements to rural hospitals under the Medicare swing-bed program. (The program allows rural hospitals to use beds, as needed, for either acute care or skilled nursing facility care.)"
+      }
+    },
+    {
+      "_id": "s3556-116",
+      "official_title": "A bill to amend the Higher Education Act of 1965 to provide for deferral of loan repayment for graduates during the period of the coronavirus.",
+      "popular_title": null,
+      "short_title": "COVID-19 Graduate Relief Act",
+      "sponsor": {
+        "bioguide_id": "R000615",
+        "district": null,
+        "name": "Romney, Mitt",
+        "party": "R",
+        "state": "UT",
+        "title": "Sen",
+        "type": "person"
+      },
+      "status_at": "2020-03-20",
+      "subjects": [
+        "Cardiovascular and respiratory health",
+        "Economic performance and conditions",
+        "Education",
+        "Emergency medical services and trauma care",
+        "Government lending and loan guarantees",
+        "Health promotion and preventive care",
+        "Higher education",
+        "Infectious and parasitic diseases",
+        "Student aid and college costs",
+        "Unemployment"
+      ],
+      "subjects_top_term": "Education",
+      "summary": null
+    },
+    {
+      "_id": "hr6298-116",
+      "official_title": "To waive and defer certain requirements under the special supplemental nutrition program for women, infants, and children during certain emergencies, and for other purposes.",
+      "popular_title": null,
+      "short_title": "COVID-19 WIC Response Act of 2020",
+      "sponsor": {
+        "bioguide_id": "T000467",
+        "district": "15",
+        "name": "Thompson, Glenn",
+        "party": "R",
+        "state": "PA",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-19",
+      "subjects": [
+        "Blood and blood diseases",
+        "Cardiovascular and respiratory health",
+        "Child health",
+        "Emergency medical services and trauma care",
+        "Food assistance and relief",
+        "Government information and archives",
+        "Health",
+        "Health programs administration and funding",
+        "Infectious and parasitic diseases",
+        "Intergovernmental relations",
+        "Medical tests and diagnostic methods",
+        "Nutrition and diet",
+        "Poverty and welfare assistance",
+        "State and local government operations",
+        "Women's health"
+      ],
+      "subjects_top_term": "Health",
+      "summary": {
+        "as": "Introduced in House",
+        "date": "2020-03-19T04:00:00Z",
+        "text": "COVID-19 WIC Response Act of 2020\n\nThis bill modifies food and nutrition programs of the Department of Agriculture (USDA) to allow certain waivers and deferments of requirements under the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) during public health emergencies, such as the COVID-19 (i.e., coronavirus disease 2019) outbreak.\n\nSpecifically, USDA may\n\n grant waivers allowing participants under WIC to get certified or recertified without being physically present at a WIC clinic; defer anthropometric and bloodwork requirements necessary to determine nutritional risk; and grant waivers from administrative requirements for WIC if it determines that the requirement cannot be met by a state due to COVID-19, and the waiver is necessary to provide assistance under WIC. USDA authority under this bill expires on July 31, 2020."
+      }
+    },
+    {
+      "_id": "hr6299-116",
+      "official_title": "To provide for the rapid coverage of preventive services and vaccines for COVID-19.",
+      "popular_title": null,
+      "short_title": "Rapid Coverage of COVID-19 Vaccine Act of 2020",
+      "sponsor": {
+        "bioguide_id": "C001069",
+        "district": "2",
+        "name": "Courtney, Joe",
+        "party": "D",
+        "state": "CT",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-19",
+      "subjects": [
+        "Cardiovascular and respiratory health",
+        "Emergency medical services and trauma care",
+        "Employee benefits and pensions",
+        "Health",
+        "Health care costs and insurance",
+        "Health care coverage and access",
+        "Health promotion and preventive care",
+        "Immunology and vaccination",
+        "Infectious and parasitic diseases"
+      ],
+      "subjects_top_term": "Health",
+      "summary": null
+    },
+    {
+      "_id": "hr6300-116",
+      "official_title": "To provide that under the Older Americans Act of 1965 the State Long-Term Care Ombudsman shall have continuing direct access (or other access through the use of technology) to residents of long-term care facilities to provide services during any portion of the COVID-19 public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d) that occurs in fiscal year 2020.",
+      "popular_title": null,
+      "short_title": "Advocating for Older Americans During Coronavirus Crisis Act of 2020",
+      "sponsor": {
+        "bioguide_id": "B001278",
+        "district": "1",
+        "name": "Bonamici, Suzanne",
+        "party": "D",
+        "state": "OR",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-19",
+      "subjects": [
+        "Aging",
+        "Cardiovascular and respiratory health",
+        "Emergency medical services and trauma care",
+        "Health",
+        "Health facilities and institutions",
+        "Infectious and parasitic diseases",
+        "Long-term, rehabilitative, and terminal care",
+        "State and local government operations"
+      ],
+      "subjects_top_term": "Health",
+      "summary": {
+        "as": "Introduced in House",
+        "date": "2020-03-19T04:00:00Z",
+        "text": "Advocating for Older Americans During Coronavirus Crisis Act of 2020\n\nThis bill requires state long-term care ombudsmen to have continuing access to residents of long-term care facilities during any portion of the public health emergency related to COVID-19 (i.e., coronavirus disease 2019) in order to investigate and resolve complaints and otherwise assist such residents in protecting their health, safety, welfare, and rights."
+      }
+    },
+    {
+      "_id": "hr6302-116",
+      "official_title": "To amend the Public Health Service Act to respond to the shortage of allied health professionals, and for other purposes.",
+      "popular_title": null,
+      "short_title": "Allied Health Personnel Shortage Act of 2020",
+      "sponsor": {
+        "bioguide_id": "C001084",
+        "district": "1",
+        "name": "Cicilline, David N.",
+        "party": "D",
+        "state": "RI",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-19",
+      "subjects": ["Health"],
+      "subjects_top_term": "Health",
+      "summary": null
+    },
+    {
+      "_id": "hr6311-116",
+      "official_title": "To require private health insurers to cover care related to COVID-19 without cost-sharing and to provide for special enrollment periods for individuals diagnosed with COVID-19.",
+      "popular_title": null,
+      "short_title": "Care for COVID-19 Act",
+      "sponsor": {
+        "bioguide_id": "R000599",
+        "district": "36",
+        "name": "Ruiz, Raul",
+        "party": "D",
+        "state": "CA",
+        "title": "Rep",
+        "type": "person"
+      },
+      "status_at": "2020-03-19",
+      "subjects": [
+        "Cardiovascular and respiratory health",
+        "Emergency medical services and trauma care",
+        "Employee benefits and pensions",
+        "Health",
+        "Health care costs and insurance",
+        "Health care coverage and access",
+        "Health promotion and preventive care",
+        "Hospital care",
+        "Immunology and vaccination",
+        "Infectious and parasitic diseases",
+        "Medical tests and diagnostic methods"
+      ],
+      "subjects_top_term": "Health",
+      "summary": null
+    },
+    {
+      "_id": "s3536-116",
+      "official_title": "A bill to provide for special enrollment periods during public health emergencies, coverage of services related to public health emergencies, and for other purposes.",
+      "popular_title": null,
+      "short_title": "Ensuring Coverage in Public Health Emergencies Act of 2020",
+      "sponsor": {
+        "bioguide_id": "C001070",
+        "district": null,
+        "name": "Casey, Robert P., Jr.",
+        "party": "D",
+        "state": "PA",
+        "title": "Sen",
+        "type": "person"
+      },
+      "status_at": "2020-03-19",
+      "subjects": [
+        "Drug therapy",
+        "Emergency medical services and trauma care",
+        "Employee benefits and pensions",
+        "Health",
+        "Health care costs and insurance",
+        "Health care coverage and access",
+        "Health promotion and preventive care",
+        "Immunology and vaccination",
+        "Medical tests and diagnostic methods",
+        "Prescription drugs"
+      ],
+      "subjects_top_term": "Health",
+      "summary": null
+    },
+    {
+      "_id": "s3537-116",
+      "official_title": "A bill to require the Secretary of Health and Human Services to maintain a list of the country of origin of all drugs marketed in the United States, to ban the use of Federal funds for the purchase of drugs manufactured in China, and for other purposes.",
+      "popular_title": null,
+      "short_title": "Protecting Our Pharmaceutical Supply Chain from China Act of 2020",
+      "sponsor": {
+        "bioguide_id": "C001095",
+        "district": null,
+        "name": "Cotton, Tom",
+        "party": "R",
+        "state": "AR",
+        "title": "Sen",
+        "type": "person"
+      },
+      "status_at": "2020-03-19",
+      "subjects": [
+        "Asia",
+        "Business expenses",
+        "China",
+        "Drug safety, medical device, and laboratory regulation",
+        "Government information and archives",
+        "Health",
+        "Health care costs and insurance",
+        "Health programs administration and funding",
+        "Health technology, devices, supplies",
+        "Income tax deductions",
+        "Manufacturing",
+        "Military medicine",
+        "Military procurement, research, weapons development",
+        "Prescription drugs",
+        "Public contracts and procurement",
+        "Trade restrictions",
+        "Veterans' medical care"
+      ],
+      "subjects_top_term": "Health",
+      "summary": null
+    }
+  ]
+}
